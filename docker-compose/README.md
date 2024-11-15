@@ -41,7 +41,7 @@ Step 4: Access you nodejs application UI from browser
     http://localhost:3000
 
 Snapshot-
-![Snapshot](Images/data-fetch-snapshot.png)
+![Snapshot](/Images/data-fetch-snapshot.png)
 
 
     
