@@ -39,4 +39,7 @@ Step 3: create `my-db` _db_ and `my-collection` _collection_ and _document_ with
 Step 4: Access you nodejs application UI from browser
 
     http://localhost:3000
+
+Snapshot:
+![Snapshot](Images/data-fetch-snapshot.png)
     
