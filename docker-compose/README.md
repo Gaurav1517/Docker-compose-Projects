@@ -42,4 +42,6 @@ Step 4: Access you nodejs application UI from browser
 
 Snapshot:
 ![Snapshot](Images/data-fetch-snapshot.png)
+
+
     
